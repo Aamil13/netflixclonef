@@ -1,0 +1,64 @@
+.imgg{
+    position: absolute;
+    z-index: -3;
+    height: auto;
+    width: 100%;
+}
+
+.sboxm{
+    padding: 70px 0;
+}
+
+.sbox{
+    
+    width: 400px;
+    height: 600px;
+    opacity: .9;
+}
+
+.formm{
+    /* padding-left: 100px;
+    padding-top: 10px; */
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+.inp{
+    padding: 10px;   
+}
+.btnf{
+    background-color: rgba(255, 0, 0, 1);
+    width: 190px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 30px;
+    color: white;
+    font-size: large;
+}
+
+a {
+    color: #FFF;
+  }
+  a:hover {
+     color:lightblue
+  }
+
+@media screen and (min-width: 1200px) {
+    .imgg{
+        height: inherit;
+    }
+}
+
+
+.savedll{
+    padding-top: 350px;
+}
+
+.xx{
+    left: 140px;
+    bottom: 50px;
+}

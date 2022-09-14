@@ -1,0 +1,38 @@
+.headimg{
+    width: 100%;
+    height: 36vw;
+    /* height: 100%; */
+    object-fit:cover;
+    object-position: 0px 20%;
+}
+
+.abso{
+    position: absolute;
+    top: 20%;
+}
+
+.nohover:hover{
+    background: none; 
+    color: aliceblue;
+}
+
+/* @media(max-width:500px){
+    .headimg{
+        height: 300px;
+    }
+} */
+
+/* .headimg2{
+    width: 100%;
+    height: 36vw;
+    background-image: url("https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/08/What-is-Computer-Vision-2048x850.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+} */
+
+@media screen and (max-width: 1080px) {
+    .mobb{
+        opacity: 0;
+    }
+}

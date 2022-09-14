@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.abb{
+    position: absolute;
+}
+
+.btn_nav{
+    background-color: red;
+    color: aliceblue;
+    width: 70px;
+    height: 35px;
+    border-radius: 4px;
+    border: 1px;
+    
+    
+}
+.btn_nav:hover{
+    background-color: crimson;
+}
